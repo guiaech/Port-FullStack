@@ -90,11 +90,29 @@ const DATA = [
     image:'https://www.globalempregos.com.br/wp-content/uploads/2020/10/devo_fazer_um_curriculo_para_cada_vaga.jpg',
     link: 'https://www.canva.com/design/DAEffXYzR8g/euE1sMChuE-6nDZglNxkyQ/view?utm_content=DAEffXYzR8g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink',
     address: 0,
- },{
+  },{
     id: '15',
     title: 'React | API GitHub',
     image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
     link: 'https://github.com/guiaech/desafio_REACT',
+    address: 2,
+  },{
+    id: '16',
+    title: 'React | Site AFT',
+    image:'https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/0e6ff/React.jpg',
+    link: 'https://www.aftt.site/',
+    address: 2,
+  },{
+    id: '17',
+    title: 'Wordpress | Site Oficina de Quadros',
+    image:'https://s.w.org/about/images/logos/wordpress-logo-stacked-rgb.png',
+    link: 'http://52.2.42.78/',
+    address: 2,
+  },{
+    id: '18',
+    title: 'React | Portfólio de Big Data',
+    image:'https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/0e6ff/React.jpg',
+    link: 'https://gui-dados.netlify.app/',
     address: 2,
   }
  
