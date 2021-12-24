@@ -54,7 +54,7 @@ const DATA = [
       {
         id: '9',
         title: 'Site React | API AWS',
-        image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
+        image:'https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/0e6ff/React.jpg',
         link: 'https://github.com/guiaech/final-corebiz',
         address: 2,
       },
@@ -93,7 +93,7 @@ const DATA = [
   },{
     id: '15',
     title: 'React | API GitHub',
-    image:'https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png',
+    image:'https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/0e6ff/React.jpg',
     link: 'https://github.com/guiaech/desafio_REACT',
     address: 2,
   },{
@@ -105,7 +105,7 @@ const DATA = [
   },{
     id: '17',
     title: 'Wordpress | Site Oficina de Quadros',
-    image:'https://s.w.org/about/images/logos/wordpress-logo-stacked-rgb.png',
+    image:'https://x5m7g5e8.stackpathcdn.com/static/images/pages/integrations/logo/wordpress.png',
     link: 'http://52.2.42.78/',
     address: 2,
   },{
