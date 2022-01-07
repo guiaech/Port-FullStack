@@ -106,7 +106,7 @@ const DATA = [
     id: '17',
     title: 'Wordpress | Site Oficina de Quadros',
     image:'https://x5m7g5e8.stackpathcdn.com/static/images/pages/integrations/logo/wordpress.png',
-    link: 'http://52.2.42.78/',
+    link: 'https://oficinadequadros.com/',
     address: 2,
   },{
     id: '18',
