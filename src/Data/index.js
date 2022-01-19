@@ -114,6 +114,12 @@ const DATA = [
     image:'https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/0e6ff/React.jpg',
     link: 'https://gui-dados.netlify.app/',
     address: 2,
+  },{
+    id: '19',
+    title: 'React | Diary Day Trade',
+    image:'https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/0e6ff/React.jpg',
+    link: 'https://tradediary.netlify.app/',
+    address: 2,
   }
  
   ];
