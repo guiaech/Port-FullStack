@@ -61,27 +61,27 @@ const DATA = [
       {
         id: '10',
         title: 'Site Vtex | API AWS',
-        image:'https://agenciametodo.com/wp-content/uploads/elementor/thumbs/Black-Moon-Blog-Banner-pc217ggtj0ghpdlz58ocfus5thmyu199uk43s258j4.png',
+        image:'https://pbs.twimg.com/profile_images/1414659268318568450/eQPmgbFO_400x400.jpg',
         link: 'https://github.com/guiaech/Vtex_AWS_desafio',
         address: 2,
       },
       {
         id: '11',
         title: 'Ecommerce Vtex | AWS',
-        image:'https://agenciametodo.com/wp-content/uploads/elementor/thumbs/Black-Moon-Blog-Banner-pc217ggtj0ghpdlz58ocfus5thmyu199uk43s258j4.png',
+        image:'https://pbs.twimg.com/profile_images/1414659268318568450/eQPmgbFO_400x400.jpg',
         link: 'https://youtu.be/LTS8ORpQibw',
         address: 2,
       },
       {
        id: '12',
        title: 'Dev em ecommerce Vtex IO',
-       image:'https://agenciametodo.com/wp-content/uploads/elementor/thumbs/Black-Moon-Blog-Banner-pc217ggtj0ghpdlz58ocfus5thmyu199uk43s258j4.png',
+       image:'https://pbs.twimg.com/profile_images/1414659268318568450/eQPmgbFO_400x400.jpg',
        link: 'https://drive.google.com/file/d/1VSxBgFnUFOfZTIx72tqpRmtfzJ3RREgQ/view',
        address: 0,
     },{
       id: '13',
       title: 'Ecommerce Wedigi / Vtex IO',
-      image:'https://agenciametodo.com/wp-content/uploads/elementor/thumbs/Black-Moon-Blog-Banner-pc217ggtj0ghpdlz58ocfus5thmyu199uk43s258j4.png',
+      image:'https://pbs.twimg.com/profile_images/1414659268318568450/eQPmgbFO_400x400.jpg',
       link:'https://youtu.be/OkxwwVzPMcg',
       address: 2,
    },{
