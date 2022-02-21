@@ -120,7 +120,25 @@ const DATA = [
     image:'https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/0e6ff/React.jpg',
     link: 'https://dev.d3tyq9nakk7wrg.amplifyapp.com/',
     address: 2,
-  }
+  },{
+    id: '16',
+    title: 'AWS Certified Cloud Practitioner',
+    image:'https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png',
+    link: 'https://www.credly.com/badges/d20568cc-59a7-4b66-a595-383ef384b6df/embedded',
+    address: 0,
+ },{
+  id: '17',
+  title: 'Certified ReactJS Coodesh',
+  image:'https://coodesh.com/_next/image?url=%2Fimages%2Fsvg%2Flogos%2Flogo-vertical.svg&w=128&q=75',
+  link: 'https://coodesh.com/share/certificate/7b4058a0-746b-11ec-9234-616b43060767',
+  address: 0,
+},{
+  id: '18',
+  title: 'Scrum: Agilidade em seu projeto',
+  image:'https://cursos.alura.com.br/assets/images/alura/logo-alura.png',
+  link: 'https://cursos.alura.com.br/user/guilherme-chaves4/course/agile-scrum/formalCertificate',
+  address: 0,
+}
  
   ];
 
