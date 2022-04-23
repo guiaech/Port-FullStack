@@ -2,7 +2,7 @@ const DATA = [
     {
       id: '1',
       title: 'Google Analystics Individual',
-      image:'https://old.agenciamoustache.com.br/wp-content/uploads/2015/09/google_logo.jpg',
+      image:'https://betalabs.com.br/wp-content/uploads/2021/10/logo_lockup_analytics_icon_vertical_black_2x-768x581.png',
       link: 'https://skillshop.exceedlms.com/student/award/y5UYc5KaT2ofXExBYegQ62vy',
       address: 0,
     },
